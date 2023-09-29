@@ -1,0 +1,116 @@
+team,team_code,opponent,opponent_code,winner,winner_code,toss_winner,toss_winner_code,venue_city,venue_city_code
+Oval Invincibles,4,London Spirit,1,Oval Invincibles,4,London Spirit,1,"Lord's, London London",1
+Birmingham Phoenix,0,Manchester Originals,2,Birmingham Phoenix,0,Birmingham Phoenix,0,"Old Trafford, Manchester Manchester",2
+Northern Superchargers,3,Trent Rockets,6,Northern Superchargers,3,Northern Superchargers,3,"Trent Bridge, Nottingham Nottingham",6
+Welsh Fire,7,Southern Brave,5,Southern Brave,5,Southern Brave,5,"Sophia Gardens, Cardiff Cardiff",5
+Trent Rockets,6,London Spirit,1,Trent Rockets,6,Trent Rockets,6,"Lord's, London London",1
+Birmingham Phoenix,0,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Manchester Originals,2,Welsh Fire,7,Welsh Fire,7,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",7
+Northern Superchargers,3,Oval Invincibles,4,Northern Superchargers,3,Oval Invincibles,4,"Headingley, Leeds Leeds",4
+Trent Rockets,6,Birmingham Phoenix,0,Trent Rockets,6,Trent Rockets,6,"Edgbaston, Birmingham Birmingham",0
+London Spirit,1,Southern Brave,5,Southern Brave,5,Southern Brave,5,"Lord's, London London",5
+Welsh Fire,7,Oval Invincibles,4,Welsh Fire,7,Oval Invincibles,4,"Kennington Oval, London London",4
+Northern Superchargers,3,London Spirit,1,London Spirit,1,Northern Superchargers,3,"Lord's, London London",1
+Birmingham Phoenix,0,Oval Invincibles,4,Oval Invincibles,4,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",4
+Southern Brave,5,Manchester Originals,2,Manchester Originals,2,Manchester Originals,2,"Old Trafford, Manchester Manchester",2
+Welsh Fire,7,Trent Rockets,6,Trent Rockets,6,Trent Rockets,6,"Sophia Gardens, Cardiff Cardiff",6
+Northern Superchargers,3,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Welsh Fire,7,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",0
+Manchester Originals,2,London Spirit,1,London Spirit,1,Manchester Originals,2,"Old Trafford, Manchester Manchester",1
+Southern Brave,5,Welsh Fire,7,Southern Brave,5,Welsh Fire,7,"The Rose Bowl, Southampton Southampton",7
+Northern Superchargers,3,Manchester Originals,2,Manchester Originals,2,Manchester Originals,2,"Headingley, Leeds Leeds",2
+Trent Rockets,6,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Trent Bridge, Nottingham Nottingham",0
+London Spirit,1,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Kennington Oval, London London",4
+Trent Rockets,6,Manchester Originals,2,Manchester Originals,2,Manchester Originals,2,"Trent Bridge, Nottingham Nottingham",2
+Southern Brave,5,Oval Invincibles,4,Southern Brave,5,Oval Invincibles,4,"The Rose Bowl, Southampton Southampton",4
+Birmingham Phoenix,0,Northern Superchargers,3,Birmingham Phoenix,0,Northern Superchargers,3,"Headingley, Leeds Leeds",3
+Welsh Fire,7,London Spirit,1,London Spirit,1,London Spirit,1,"Sophia Gardens, Cardiff Cardiff",1
+Oval Invincibles,4,Birmingham Phoenix,0,Oval Invincibles,4,Birmingham Phoenix,0,"Kennington Oval, London London",0
+Oval Invincibles,4,Southern Brave,5,Oval Invincibles,4,Southern Brave,5,"Lord's, London London",5
+Birmingham Phoenix,0,Manchester Originals,2,Manchester Originals,2,Birmingham Phoenix,0,"Old Trafford, Manchester Manchester",2
+Northern Superchargers,3,Trent Rockets,6,Trent Rockets,6,Northern Superchargers,3,"Trent Bridge, Nottingham Nottingham",6
+Welsh Fire,7,Southern Brave,5,Welsh Fire,7,Southern Brave,5,"Sophia Gardens, Cardiff Cardiff",5
+Trent Rockets,6,London Spirit,1,Trent Rockets,6,London Spirit,1,"Lord's, London London",1
+Birmingham Phoenix,0,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Welsh Fire,7,Manchester Originals,2,Manchester Originals,2,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",2
+Oval Invincibles,4,Northern Superchargers,3,Northern Superchargers,3,Oval Invincibles,4,"Headingley, Leeds Leeds",3
+Trent Rockets,6,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",0
+Southern Brave,5,London Spirit,1,Southern Brave,5,London Spirit,1,"Lord's, London London",1
+Welsh Fire,7,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Kennington Oval, London London",4
+Northern Superchargers,3,London Spirit,1,Northern Superchargers,3,Northern Superchargers,3,"Lord's, London London",1
+Oval Invincibles,4,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",0
+Welsh Fire,7,Trent Rockets,6,Trent Rockets,6,Trent Rockets,6,"Sophia Gardens, Cardiff Cardiff",6
+Northern Superchargers,3,Southern Brave,5,Southern Brave,5,Northern Superchargers,3,"The Rose Bowl, Southampton Southampton",5
+Oval Invincibles,4,Trent Rockets,6,Oval Invincibles,4,Trent Rockets,6,"Kennington Oval, London London",6
+Birmingham Phoenix,0,Welsh Fire,7,Birmingham Phoenix,0,Welsh Fire,7,"Edgbaston, Birmingham Birmingham",7
+London Spirit,1,Manchester Originals,2,London Spirit,1,London Spirit,1,"Old Trafford, Manchester Manchester",2
+Welsh Fire,7,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Northern Superchargers,3,Manchester Originals,2,Northern Superchargers,3,Manchester Originals,2,"Headingley, Leeds Leeds",2
+Birmingham Phoenix,0,Trent Rockets,6,Birmingham Phoenix,0,Trent Rockets,6,"Trent Bridge, Nottingham Nottingham",6
+London Spirit,1,Oval Invincibles,4,Oval Invincibles,4,London Spirit,1,"Kennington Oval, London London",4
+Manchester Originals,2,Trent Rockets,6,Trent Rockets,6,Manchester Originals,2,"Trent Bridge, Nottingham Nottingham",6
+Oval Invincibles,4,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Northern Superchargers,3,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Headingley, Leeds Leeds",0
+London Spirit,1,Welsh Fire,7,Welsh Fire,7,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",7
+Trent Rockets,6,Southern Brave,5,Southern Brave,5,Southern Brave,5,"Kennington Oval, London London",5
+Southern Brave,5,Birmingham Phoenix,0,Southern Brave,5,Birmingham Phoenix,0,"Lord's, London London",0
+Northern Superchargers,3,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Kennington Oval, London London",4
+London Spirit,1,Southern Brave,5,Southern Brave,5,London Spirit,1,"The Rose Bowl, Southampton Southampton",5
+Trent Rockets,6,Manchester Originals,2,Trent Rockets,6,Manchester Originals,2,"Old Trafford, Manchester Manchester",2
+Birmingham Phoenix,0,Welsh Fire,7,Birmingham Phoenix,0,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",7
+Northern Superchargers,3,London Spirit,1,Northern Superchargers,3,London Spirit,1,"Headingley, Leeds Leeds",1
+Southern Brave,5,Oval Invincibles,4,Southern Brave,5,Oval Invincibles,4,"Kennington Oval, London London",4
+Trent Rockets,6,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",0
+Manchester Originals,2,Welsh Fire,7,Manchester Originals,2,Welsh Fire,7,"Old Trafford, Manchester Manchester",7
+Trent Rockets,6,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Trent Bridge, Nottingham Nottingham",4
+Southern Brave,5,Manchester Originals,2,Southern Brave,5,Manchester Originals,2,"The Rose Bowl, Southampton Southampton",2
+Birmingham Phoenix,0,Northern Superchargers,3,Birmingham Phoenix,0,Northern Superchargers,3,"Edgbaston, Birmingham Birmingham",3
+Trent Rockets,6,London Spirit,1,Trent Rockets,6,London Spirit,1,"Trent Bridge, Nottingham Nottingham",1
+Manchester Originals,2,Northern Superchargers,3,Northern Superchargers,3,Manchester Originals,2,"Headingley, Leeds Leeds",3
+Southern Brave,5,Welsh Fire,7,Southern Brave,5,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",7
+Birmingham Phoenix,0,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Kennington Oval, London London",4
+Welsh Fire,7,London Spirit,1,London Spirit,1,Welsh Fire,7,"Lord's, London London",1
+Trent Rockets,6,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Welsh Fire,7,Northern Superchargers,3,Welsh Fire,7,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",3
+London Spirit,1,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Lord's, London London",4
+Manchester Originals,2,Birmingham Phoenix,0,Manchester Originals,2,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",0
+Welsh Fire,7,Trent Rockets,6,Trent Rockets,6,Welsh Fire,7,"Trent Bridge, Nottingham Nottingham",6
+Birmingham Phoenix,0,London Spirit,1,London Spirit,1,London Spirit,1,"Lord's, London London",1
+Northern Superchargers,3,Southern Brave,5,Northern Superchargers,3,Southern Brave,5,"Headingley, Leeds Leeds",5
+Oval Invincibles,4,Manchester Originals,2,Oval Invincibles,4,Oval Invincibles,4,"Old Trafford, Manchester Manchester",2
+Southern Brave,5,Trent Rockets,6,Southern Brave,5,Trent Rockets,6,"The Rose Bowl, Southampton Southampton",6
+Southern Brave,5,Oval Invincibles,4,Oval Invincibles,4,Southern Brave,5,"Lord's, London London",4
+Welsh Fire,7,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+London Spirit,1,Oval Invincibles,4,London Spirit,1,Oval Invincibles,4,"Kennington Oval, London London",4
+Manchester Originals,2,Northern Superchargers,3,Northern Superchargers,3,Northern Superchargers,3,"Old Trafford, Manchester Manchester",3
+Birmingham Phoenix,0,Trent Rockets,6,Trent Rockets,6,Trent Rockets,6,"Trent Bridge, Nottingham Nottingham",6
+Oval Invincibles,4,Welsh Fire,7,Oval Invincibles,4,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",7
+London Spirit,1,Manchester Originals,2,London Spirit,1,London Spirit,1,"Lord's, London London",2
+Northern Superchargers,3,Trent Rockets,6,Trent Rockets,6,Trent Rockets,6,"Headingley, Leeds Leeds",6
+Birmingham Phoenix,0,Southern Brave,5,Birmingham Phoenix,0,Southern Brave,5,"Edgbaston, Birmingham Birmingham",5
+Northern Superchargers,3,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Kennington Oval, London London",4
+London Spirit,1,Southern Brave,5,London Spirit,1,London Spirit,1,"The Rose Bowl, Southampton Southampton",5
+Manchester Originals,2,Trent Rockets,6,Trent Rockets,6,Trent Rockets,6,"Old Trafford, Manchester Manchester",6
+Birmingham Phoenix,0,Welsh Fire,7,Birmingham Phoenix,0,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",7
+Northern Superchargers,3,London Spirit,1,London Spirit,1,Northern Superchargers,3,"Headingley, Leeds Leeds",1
+Southern Brave,5,Oval Invincibles,4,Oval Invincibles,4,Oval Invincibles,4,"Kennington Oval, London London",4
+Trent Rockets,6,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",0
+Manchester Originals,2,Welsh Fire,7,Manchester Originals,2,Welsh Fire,7,"Old Trafford, Manchester Manchester",7
+Trent Rockets,6,Oval Invincibles,4,Trent Rockets,6,Oval Invincibles,4,"Trent Bridge, Nottingham Nottingham",4
+Manchester Originals,2,Southern Brave,5,Manchester Originals,2,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Northern Superchargers,3,Birmingham Phoenix,0,Northern Superchargers,3,Birmingham Phoenix,0,"Edgbaston, Birmingham Birmingham",0
+London Spirit,1,Trent Rockets,6,Trent Rockets,6,Trent Rockets,6,"Trent Bridge, Nottingham Nottingham",6
+Manchester Originals,2,Northern Superchargers,3,Manchester Originals,2,Northern Superchargers,3,"Headingley, Leeds Leeds",3
+Welsh Fire,7,Southern Brave,5,Southern Brave,5,Southern Brave,5,"Sophia Gardens, Cardiff Cardiff",5
+Birmingham Phoenix,0,Oval Invincibles,4,Birmingham Phoenix,0,Oval Invincibles,4,"Kennington Oval, London London",4
+London Spirit,1,Welsh Fire,7,London Spirit,1,Welsh Fire,7,"Lord's, London London",7
+Trent Rockets,6,Southern Brave,5,Southern Brave,5,Southern Brave,5,"The Rose Bowl, Southampton Southampton",5
+Welsh Fire,7,Northern Superchargers,3,Northern Superchargers,3,Welsh Fire,7,"Sophia Gardens, Cardiff Cardiff",3
+London Spirit,1,Oval Invincibles,4,Oval Invincibles,4,London Spirit,1,"Lord's, London London",4
+Manchester Originals,2,Birmingham Phoenix,0,Manchester Originals,2,Manchester Originals,2,"Edgbaston, Birmingham Birmingham",0
+Trent Rockets,6,Welsh Fire,7,Trent Rockets,6,Welsh Fire,7,"Trent Bridge, Nottingham Nottingham",7
+London Spirit,1,Birmingham Phoenix,0,Birmingham Phoenix,0,Birmingham Phoenix,0,"Lord's, London London",0
+Northern Superchargers,3,Southern Brave,5,Northern Superchargers,3,Southern Brave,5,"Headingley, Leeds Leeds",5
+Oval Invincibles,4,Manchester Originals,2,Manchester Originals,2,Oval Invincibles,4,"Old Trafford, Manchester Manchester",2
+London Spirit,1,Manchester Originals,2,Manchester Originals,2,London Spirit,1,"The Rose Bowl, Southampton Southampton",2
+Manchester Originals,2,Trent Rockets,6,Trent Rockets,6,Manchester Originals,2,"Lord's, London London",6

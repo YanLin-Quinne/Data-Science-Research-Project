@@ -1,0 +1,59 @@
+Result,match_number,team,opponent,gender,season,team_score,team_wickets,winner,toss_winner,home_advantage,venue_city,choose_to_bat,avg_score,avg_win_rate,avg_wickets_out,last_match_result
+win,1,Southern Brave,Trent Rockets,female,2023,157,6,Southern Brave,Trent Rockets,no,"Trent Bridge, Nottingham Nottingham",no,121.94117647058823,0.7647058823529411,5.0,lose
+lose,4,Birmingham Phoenix,Northern Superchargers,female,2023,110,8,Northern Superchargers,Northern Superchargers,no,"Headingley, Leeds Leeds",no,124.53333333333333,0.4666666666666667,6.4,lose
+win,5,Welsh Fire,Southern Brave,female,2023,165,3,Welsh Fire,Southern Brave,no,"The Rose Bowl, Southampton Southampton",no,118.85714285714286,0.21428571428571427,6.785714285714286,lose
+lose,8,Northern Superchargers,Southern Brave,female,2023,100,8,Southern Brave,Southern Brave,no,"The Rose Bowl, Southampton Southampton",no,128.42857142857142,0.5,5.0,win
+lose,9,Oval Invincibles,Welsh Fire,female,2023,80,0,Welsh Fire,Welsh Fire,yes,"Kennington Oval, London London",no,118.4375,0.75,4.6875,win
+lose,10,Birmingham Phoenix,Manchester Originals,female,2023,87,0,Manchester Originals,Manchester Originals,no,"Old Trafford, Manchester Manchester",no,123.625,0.4375,6.5,lose
+lose,11,London Spirit,Southern Brave,female,2023,104,5,Southern Brave,Southern Brave,yes,"Lord's, London London",no,115.71428571428571,0.42857142857142855,6.142857142857143,win
+win,12,Northern Superchargers,Trent Rockets,female,2023,134,4,Northern Superchargers,Northern Superchargers,no,"Trent Bridge, Nottingham Nottingham",yes,126.53333333333333,0.4666666666666667,5.2,lose
+win,13,Oval Invincibles,Manchester Originals,female,2023,128,7,Oval Invincibles,Manchester Originals,yes,"Kennington Oval, London London",no,116.17647058823529,0.7058823529411765,4.411764705882353,lose
+win,14,Welsh Fire,Birmingham Phoenix,female,2023,137,7,Welsh Fire,Birmingham Phoenix,no,"Edgbaston, Birmingham Birmingham",no,119.375,0.3125,6.5625,win
+win,15,Northern Superchargers,Oval Invincibles,female,2023,143,4,Northern Superchargers,Northern Superchargers,yes,"Headingley, Leeds Leeds",yes,127.0,0.5,5.125,win
+lose,16,London Spirit,Trent Rockets,female,2023,124,4,Trent Rockets,Trent Rockets,yes,"Lord's, London London",no,114.93333333333334,0.4,6.066666666666666,lose
+lose,17,Welsh Fire,Southern Brave,female,2023,144,5,Southern Brave,Southern Brave,yes,"Sophia Gardens, Cardiff Cardiff",no,120.41176470588235,0.35294117647058826,6.588235294117647,win
+win,18,Northern Superchargers,Manchester Originals,female,2023,133,5,Northern Superchargers,Northern Superchargers,yes,"Headingley, Leeds Leeds",yes,127.94117647058823,0.5294117647058824,5.0588235294117645,win
+win,19,Oval Invincibles,Birmingham Phoenix,female,2023,142,5,Oval Invincibles,Birmingham Phoenix,no,"Edgbaston, Birmingham Birmingham",no,117.47368421052632,0.6842105263157895,4.578947368421052,lose
+win,20,Welsh Fire,Trent Rockets,female,2023,181,3,Welsh Fire,Welsh Fire,yes,"Sophia Gardens, Cardiff Cardiff",yes,121.72222222222223,0.3333333333333333,6.5,lose
+win,21,London Spirit,Oval Invincibles,female,2023,118,9,London Spirit,Oval Invincibles,no,"Kennington Oval, London London",no,115.5,0.375,5.9375,lose
+win,22,Southern Brave,Birmingham Phoenix,female,2023,132,4,Southern Brave,Southern Brave,yes,"The Rose Bowl, Southampton Southampton",yes,124.81818181818181,0.7727272727272727,5.136363636363637,win
+lose,23,Manchester Originals,Trent Rockets,female,2023,107,5,Trent Rockets,Manchester Originals,no,"Trent Bridge, Nottingham Nottingham",yes,119.8125,0.375,5.3125,lose
+lose,24,London Spirit,Northern Superchargers,female,2023,135,7,Northern Superchargers,Northern Superchargers,yes,"Lord's, London London",no,115.6470588235294,0.4117647058823529,6.117647058823529,win
+win,25,Trent Rockets,Birmingham Phoenix,female,2023,134,6,Trent Rockets,Trent Rockets,yes,"Trent Bridge, Nottingham Nottingham",yes,122.15789473684211,0.42105263157894735,5.7894736842105265,win
+lose,26,Oval Invincibles,Southern Brave,female,2023,130,6,Southern Brave,Oval Invincibles,no,"The Rose Bowl, Southampton Southampton",yes,117.66666666666667,0.6666666666666666,4.380952380952381,lose
+lose,27,Northern Superchargers,Manchester Originals,female,2023,107,8,Manchester Originals,Northern Superchargers,no,"Old Trafford, Manchester Manchester",yes,128.6315789473684,0.5789473684210527,5.105263157894737,win
+win,28,Welsh Fire,London Spirit,female,2023,161,4,Welsh Fire,London Spirit,yes,"Sophia Gardens, Cardiff Cardiff",no,124.84210526315789,0.3684210526315789,6.315789473684211,win
+win,29,Oval Invincibles,Trent Rockets,female,2023,156,6,Oval Invincibles,Oval Invincibles,yes,"Kennington Oval, London London",yes,118.22727272727273,0.6363636363636364,4.454545454545454,lose
+win,30,Northern Superchargers,Welsh Fire,female,2023,144,4,Northern Superchargers,Northern Superchargers,yes,"Headingley, Leeds Leeds",yes,127.55,0.55,5.25,lose
+lose,31,Manchester Originals,Southern Brave,female,2023,118,4,Southern Brave,Southern Brave,yes,"Old Trafford, Manchester Manchester",no,118.44444444444444,0.3888888888888889,5.388888888888889,win
+win,32,London Spirit,Birmingham Phoenix,female,2023,172,5,London Spirit,Birmingham Phoenix,no,"Edgbaston, Birmingham Birmingham",no,117.84210526315789,0.3684210526315789,6.2105263157894735,lose
+win,50,Southern Brave,Northern Superchargers,female,2023,139,6,Southern Brave,Northern Superchargers,no,"Lord's, London London",yes,125.24,0.8,4.88,win
+win,1,Trent Rockets,Southern Brave,male,2023,133,8,Trent Rockets,Southern Brave,yes,"Trent Bridge, Nottingham Nottingham",no,141.38888888888889,0.6666666666666666,5.222222222222222,win
+win,2,Welsh Fire,Manchester Originals,male,2023,94,3,Welsh Fire,Manchester Originals,yes,"Sophia Gardens, Cardiff Cardiff",no,132.9375,0.1875,6.625,lose
+lose,3,London Spirit,Oval Invincibles,male,2023,131,0,Oval Invincibles,Oval Invincibles,yes,"Lord's, London London",no,141.125,0.375,6.5625,lose
+win,5,Southern Brave,Welsh Fire,male,2023,147,8,Southern Brave,Welsh Fire,yes,"The Rose Bowl, Southampton Southampton",no,133.05555555555554,0.5555555555555556,5.222222222222222,lose
+win,8,Northern Superchargers,Southern Brave,male,2023,201,3,Northern Superchargers,Southern Brave,no,"The Rose Bowl, Southampton Southampton",no,151.53333333333333,0.4666666666666667,6.133333333333334,win
+win,10,Manchester Originals,Birmingham Phoenix,male,2023,160,8,Manchester Originals,Birmingham Phoenix,yes,"Old Trafford, Manchester Manchester",no,143.35294117647058,0.47058823529411764,6.0588235294117645,lose
+win,12,Northern Superchargers,Trent Rockets,male,2023,142,5,Northern Superchargers,Trent Rockets,no,"Trent Bridge, Nottingham Nottingham",no,154.625,0.5,5.9375,win
+win,13,Oval Invincibles,Manchester Originals,male,2023,186,5,Oval Invincibles,Manchester Originals,yes,"Kennington Oval, London London",no,144.5,0.5625,6.0625,win
+lose,14,Birmingham Phoenix,Welsh Fire,male,2023,112,7,Welsh Fire,Birmingham Phoenix,yes,"Edgbaston, Birmingham Birmingham",yes,142.5,0.6111111111111112,5.611111111111111,lose
+win,15,Oval Invincibles,Northern Superchargers,male,2023,185,5,Oval Invincibles,Oval Invincibles,no,"Headingley, Leeds Leeds",yes,146.94117647058823,0.5882352941176471,6.0,win
+win,16,London Spirit,Trent Rockets,male,2023,195,4,London Spirit,Trent Rockets,yes,"Lord's, London London",no,140.52941176470588,0.35294117647058826,6.176470588235294,lose
+lose,17,Welsh Fire,Southern Brave,male,2023,87,0,Southern Brave,Southern Brave,yes,"Sophia Gardens, Cardiff Cardiff",no,130.6315789473684,0.2631578947368421,6.315789473684211,win
+win,18,Manchester Originals,Northern Superchargers,male,2023,182,6,Manchester Originals,Manchester Originals,no,"Headingley, Leeds Leeds",yes,141.52631578947367,0.47368421052631576,5.842105263157895,lose
+win,19,Birmingham Phoenix,Oval Invincibles,male,2023,160,8,Birmingham Phoenix,Oval Invincibles,yes,"Edgbaston, Birmingham Birmingham",no,140.89473684210526,0.5789473684210527,5.684210526315789,lose
+win,20,Trent Rockets,Welsh Fire,male,2023,152,6,Trent Rockets,Welsh Fire,no,"Sophia Gardens, Cardiff Cardiff",no,143.33333333333334,0.6190476190476191,5.428571428571429,lose
+win,21,Oval Invincibles,London Spirit,male,2023,189,4,Oval Invincibles,Oval Invincibles,yes,"Kennington Oval, London London",yes,147.47368421052633,0.5789473684210527,5.631578947368421,lose
+lose,22,Birmingham Phoenix,Southern Brave,male,2023,119,8,Southern Brave,Birmingham Phoenix,no,"The Rose Bowl, Southampton Southampton",yes,141.85,0.6,5.8,win
+win,23,Manchester Originals,Trent Rockets,male,2023,181,6,Manchester Originals,Trent Rockets,no,"Trent Bridge, Nottingham Nottingham",no,143.55,0.5,5.85,win
+win,24,London Spirit,Northern Superchargers,male,2023,160,6,London Spirit,Northern Superchargers,yes,"Lord's, London London",no,145.8421052631579,0.3684210526315789,6.105263157894737,lose
+win,25,Trent Rockets,Birmingham Phoenix,male,2023,162,6,Trent Rockets,Birmingham Phoenix,yes,"Trent Bridge, Nottingham Nottingham",no,144.91304347826087,0.6086956521739131,5.434782608695652,lose
+win,26,Oval Invincibles,Southern Brave,male,2023,139,7,Oval Invincibles,Oval Invincibles,no,"The Rose Bowl, Southampton Southampton",yes,149.55,0.6,5.55,win
+win,27,Manchester Originals,Northern Superchargers,male,2023,164,6,Manchester Originals,Manchester Originals,yes,"Old Trafford, Manchester Manchester",yes,145.33333333333334,0.5238095238095238,5.857142857142857,win
+lose,28,London Spirit,Welsh Fire,male,2023,109,9,Welsh Fire,London Spirit,no,"Sophia Gardens, Cardiff Cardiff",yes,146.55,0.4,6.1,win
+lose,29,Trent Rockets,Oval Invincibles,male,2023,148,7,Oval Invincibles,Trent Rockets,no,"Kennington Oval, London London",yes,145.625,0.625,5.458333333333333,win
+lose,30,Northern Superchargers,Welsh Fire,male,2023,158,7,Welsh Fire,Northern Superchargers,yes,"Headingley, Leeds Leeds",yes,150.61904761904762,0.42857142857142855,5.904761904761905,lose
+lose,31,Manchester Originals,Southern Brave,male,2023,130,8,Southern Brave,Southern Brave,yes,"Old Trafford, Manchester Manchester",no,146.1818181818182,0.5454545454545454,5.863636363636363,win
+win,32,Birmingham Phoenix,London Spirit,male,2023,180,5,Birmingham Phoenix,London Spirit,yes,"Edgbaston, Birmingham Birmingham",no,139.63636363636363,0.5454545454545454,6.045454545454546,lose
+lose,40,Southern Brave,Manchester Originals,male,2023,196,1,Manchester Originals,Manchester Originals,no,"Kennington Oval, London London",yes,131.625,0.5833333333333334,5.208333333333333,win
+win,50,Oval Invincibles,Manchester Originals,male,2023,161,5,Oval Invincibles,Manchester Originals,no,"Lord's, London London",yes,149.13636363636363,0.6363636363636364,5.590909090909091,win
